@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\Desktop\C_Cpp_Project\DuoLink -B D:\Desktop\C_Cpp_Project\DuoLink\cmake-build-debug
+-- source path: D:/Desktop/C_Cpp_Project/DuoLink
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/Desktop/C_Cpp_Project/DuoLink/cmake-build-debug
